@@ -9,7 +9,7 @@ public class Application {
         boolean isTrue = true;
         int number = 1234;
         double realNumber = 3.14;
-        String str = "Hello world";
+        String str = "Hello world!!";
 
         System.out.println(isTrue);
         System.out.println(number);
